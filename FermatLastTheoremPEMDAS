@@ -1,0 +1,7 @@
+# Define a function that multiplies a digit to the digit immediatley smaller than it when it said initial digit ia not equal to another given digit. Though this may seem arbitrary, it is vital for assigning a numerical for government aid to the the more less fortunate sectors of the American public.
+
+def PEMDASTheoremOne():
+    for i in range(300):
+            print(i * (i-1));
+
+PEMDASTheoremOne();
