@@ -1,0 +1,7 @@
+def UnifiedInterestLaw():
+    for i in range(45):
+        r = 1;
+        n = 40;
+        print((i * (1 + ((r/100)*(n)))) - i);
+    
+UnifiedInterestLaw();
