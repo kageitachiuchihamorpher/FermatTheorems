@@ -1,0 +1,3 @@
+i = 1;
+j = (i*60);
+print(str(int(i)) + str(":") + str(int(j)));
